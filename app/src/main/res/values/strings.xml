@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Дневник рыбака</string>
+    <string name="fish">Рыбы</string>
+    <string name="bait">Наживки</string>
+    <string name="tackle">Снасти</string>
+    <string name="history">Истории</string>
+    <string name="about">О приложении</string>
+</resources>
